@@ -1,1 +1,1 @@
-# exam-2
+# MateAcademy-exam2
